@@ -1,11 +1,11 @@
 # algorithm_python
 ## Study the algorithm with Python
-------------
+
 
 ### 백준 문제 풀이 정리
 
 ### 구성
-------------
+
 #### 폴더 이름
 - #### {problem_num}_{problem_subject}
 
